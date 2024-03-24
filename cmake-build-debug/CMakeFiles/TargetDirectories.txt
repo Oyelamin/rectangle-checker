@@ -1,0 +1,3 @@
+/Users/blessing/CLionProjects/rectangle-checker/cmake-build-debug/CMakeFiles/rectangle_checker.dir
+/Users/blessing/CLionProjects/rectangle-checker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/blessing/CLionProjects/rectangle-checker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
